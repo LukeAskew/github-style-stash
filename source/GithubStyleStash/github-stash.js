@@ -34,7 +34,7 @@
 		}
 		// if we find a button, click it!
 		else {
-			markdownButton.click();
+			// markdownButton.click();
 		}
 
 	}());
